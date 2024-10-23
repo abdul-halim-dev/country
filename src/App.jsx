@@ -4,7 +4,7 @@ import { useState } from "react"
 import Allcountries from "./pages/allcountries/Allcountries"
 import Search from "./pages/search/Search"
 import './App.css'
-import Singlecountry from "./pages/singleCountry/Singlecountry"
+
 
  
  
